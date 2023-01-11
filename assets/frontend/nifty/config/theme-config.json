@@ -1,0 +1,17 @@
+{
+  "theme-name"     : "nifty",
+  "author"         : "Creativeitem",
+  "year"           : "2020",
+  "homepage" : {
+    "homepage_banner_image" : true,
+    "homepage_banner_image_size" : "900 X 700"
+  },
+  "course_media_files" : {
+    "course_thumbnail" : "500 X 300",
+    "course_banner" : "1900 X 800"
+  },
+  "course_media_placeholders" : {
+    "course_thumbnail_placeholder" : "assets/frontend/nifty/img/course_thumbnail_placeholder.jpg",
+    "course_banner_placeholder" : "assets/frontend/nifty/img/course_banner_placeholder.jpg"
+  }
+}
