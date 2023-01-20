@@ -65,10 +65,6 @@
         <label class="custom-control-label" for="document"><?php echo get_phrase('document_file'); ?></label>
     </div>
     <div class="custom-control custom-radio">
-        <input type="radio" id="audio" name="lesson_type" class="custom-control-input" value="audio" <?php if($selected_lesson == 'audio') echo 'checked'; ?>>
-        <label class="custom-control-label" for="audio"><?php echo get_phrase('audio'); ?></label>
-    </div>
-    <div class="custom-control custom-radio">
         <input type="radio" id="text" name="lesson_type" class="custom-control-input" value="text" <?php if($selected_lesson == 'text') echo 'checked'; ?>>
         <label class="custom-control-label" for="text"><?php echo get_phrase('text'); ?></label>
     </div>
